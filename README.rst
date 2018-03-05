@@ -117,6 +117,6 @@ Join the conversation! Other design considerations and details can be found on t
 
 .. |Build Status| image:: https://travis-ci.org/mekarpeles/pypc.png
 
-.. |Wheel Status| image:: https://pypip.in/wheel/pypc/badge.svg
+.. |Wheel Status| image:: https://img.shields.io/pypi/wheel/pypc.svg
     :target: https://pypi.python.org/pypi/pypc/
     :alt: Wheel Status
